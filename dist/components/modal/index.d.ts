@@ -1,0 +1,5 @@
+export { default as PiModalHeader } from './modalHeader';
+export { default as PiModalTitle } from './modalTitle';
+export { default as PiModalFooter } from './modalFooter';
+export { default as PiModalBody } from './modalBody';
+export { default as PiModal } from './modal';

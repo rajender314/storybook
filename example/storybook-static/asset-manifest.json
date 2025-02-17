@@ -1,0 +1,34 @@
+{
+  "files": {
+    "0.642d6275.iframe.bundle.js": "./0.642d6275.iframe.bundle.js",
+    "0.642d6275.iframe.bundle.js.map": "./0.642d6275.iframe.bundle.js.map",
+    "1.d3bb5de7.iframe.bundle.js": "./1.d3bb5de7.iframe.bundle.js",
+    "1.d3bb5de7.iframe.bundle.js.map": "./1.d3bb5de7.iframe.bundle.js.map",
+    "2.9f8e88e2.iframe.bundle.js": "./2.9f8e88e2.iframe.bundle.js",
+    "3.7a3f47e6.iframe.bundle.js": "./3.7a3f47e6.iframe.bundle.js",
+    "@atlaskit-internal_Tooltip.js": "./@atlaskit-internal_Tooltip.1d7ee12e.iframe.bundle.js",
+    "main.js": "./main.1a7708db.iframe.bundle.js",
+    "runtime~main.js": "./runtime~main.d63c0a9b.iframe.bundle.js",
+    "vendors~main.css": "./static/css/vendors~main.74c19f5b.chunk.css",
+    "vendors~main.js": "./vendors~main.3e5f54aa.iframe.bundle.js",
+    "vendors~main.css.map": "./static/css/vendors~main.74c19f5b.chunk.css.map",
+    "vendors~main.js.map": "./vendors~main.3e5f54aa.iframe.bundle.js.map",
+    "8.90138cbe.iframe.bundle.js": "./8.90138cbe.iframe.bundle.js",
+    "9.1ec61040.iframe.bundle.js": "./9.1ec61040.iframe.bundle.js",
+    "9.1ec61040.iframe.bundle.js.map": "./9.1ec61040.iframe.bundle.js.map",
+    "10.44dc2ca0.iframe.bundle.js": "./10.44dc2ca0.iframe.bundle.js",
+    "0.642d6275.iframe.bundle.js.LICENSE.txt": "./0.642d6275.iframe.bundle.js.LICENSE.txt",
+    "1.d3bb5de7.iframe.bundle.js.LICENSE.txt": "./1.d3bb5de7.iframe.bundle.js.LICENSE.txt",
+    "9.1ec61040.iframe.bundle.js.LICENSE.txt": "./9.1ec61040.iframe.bundle.js.LICENSE.txt",
+    "iframe.html": "./iframe.html",
+    "precache-manifest.5d2abbaaf23fde96639c1da07919472a.js": "./precache-manifest.5d2abbaaf23fde96639c1da07919472a.js",
+    "service-worker.js": "./service-worker.js",
+    "vendors~main.3e5f54aa.iframe.bundle.js.LICENSE.txt": "./vendors~main.3e5f54aa.iframe.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.d63c0a9b.iframe.bundle.js",
+    "static/css/vendors~main.74c19f5b.chunk.css",
+    "vendors~main.3e5f54aa.iframe.bundle.js",
+    "main.1a7708db.iframe.bundle.js"
+  ]
+}

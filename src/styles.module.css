@@ -1,0 +1,9 @@
+/* add css module styles here (optional) */
+
+.kranthi{
+    padding: auto;
+}
+small.validation-error {
+  color: #f60a31;
+  font-size: 12px;
+}

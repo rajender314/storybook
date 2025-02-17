@@ -1,0 +1,18 @@
+import { ThemeContextType } from '../../themeContext';
+export declare const PiTextH1: (props: ThemeContextType) => string;
+export declare const PiTextH2: (props: ThemeContextType) => string;
+export declare const PiTextH3: (props: ThemeContextType) => string;
+export declare const PiTextH4: (props: ThemeContextType) => string;
+export declare const PiTextH5: (props: ThemeContextType) => string;
+export declare const PiTextH6: (props: ThemeContextType) => string;
+export declare const PiTextP: (props: ThemeContextType) => string;
+export declare const PiTextPBold: (props: ThemeContextType) => string;
+export declare const PiTextTH: (props: ThemeContextType) => string;
+export declare const PiTextS: (props: ThemeContextType) => string;
+export declare const PiTextXS: (props: ThemeContextType) => string;
+export declare const PiTextCaption: (props: ThemeContextType) => string;
+export declare const PiTextLabel: (props: ThemeContextType) => string;
+export declare const PiTextDefault: (props: ThemeContextType) => string;
+export declare const PiTextSuccess: (props: ThemeContextType) => string;
+export declare const PiTextError: (props: ThemeContextType) => string;
+export declare const PiTextWarning: (props: ThemeContextType) => string;
